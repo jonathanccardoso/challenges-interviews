@@ -10,6 +10,9 @@ Esperamos que seja desenvolvido um app/página que apresente as informações so
    1.5) Índice de desenvolvimento humano municipal (IDHM) da cidade de Mossoró/RN
    1.6) A média dos IDHM de Natal e Mossoró
 
+## Link ##
+https://django-dynamic-scraper.readthedocs.io/en/latest/getting_started.html#defining-your-scrapers
+
 ## Steps ##
 - web-scrapping.py
 - cmd
