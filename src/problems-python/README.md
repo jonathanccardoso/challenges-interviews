@@ -1,17 +1,13 @@
 ## Problems ##
 
-Below are two programming problems. Please read both descriptions thoroughly and then create a program to solve ONE of the problems. For the solution, we ask that you use Python, fell free to show us your skills with html/css to implement the interface for this application. At the end you must host your code in your GitHub account and send us a link to the repository. You can run your project on any server you have access.
+- Explicar seu desing e instruções para executar seu aplicativo
+- Usar POO, para ter o codigo de qualidade de produção (para executar, manter e evoluir)
+- Seus dados de entrada tem que ser por meio de um arquivo de texto
 
-Along with your code, please provide a brief explanation of your design and assumptions as well as detailed instructions to run your application.
-
-We assess a number of things including the design aspect of your solution and your object oriented programming skills. While these are small problems, we expect you to submit what you believe is production-quality code; code that you’d be able to run, maintain, and evolve. 
-
-We want our hiring process to be fair, and for everyone to start from the same place. To enable this, we request that you do not share or publish these problems.
-
-As a general rule, we allow three days from the date that you receive these instructions to submit your code, but you may request more time if needed.  If you have any questions about the project or interview process, you can contact me.
-
-We wish you luck and look forward to receiving your response.
-
+* 3 dias para realização
+* Resolução é um projeto web
+* Tem que hospedar em um servidor (heroku, hosstinger, githubpages) e fornecer link
+* Usar POO (se possível)
 
 Introduction to the Problems
 •   The resolution must be a web application.
