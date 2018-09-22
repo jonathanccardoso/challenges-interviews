@@ -1,4 +1,4 @@
-<?php 
+<?php
 	/* Criar um calendário com php puro (sem framework) */
 ?>
 
@@ -10,7 +10,7 @@
 </head>
 <body>
 
-	<?php  include 'calendario.php' ?>
+	<?php include_once "calendario.php" ?>
 
 </body>
 </html>
