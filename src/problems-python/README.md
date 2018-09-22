@@ -9,6 +9,11 @@
 * Tem que hospedar em um servidor (heroku, hosstinger, githubpages) e fornecer link
 * Usar POO (se possível)
 
+## Links ##
+https://imasters.com.br/artigo/10824/desenvolvimento/aplicacoes-rapidas-para-web-com-django/?trace=1519021197&source=single
+https://django-portuguese.readthedocs.io/en/1.0/intro/tutorial01.html#criando-um-projeto
+https://pt.slideshare.net/nossal/django-4405387
+
 Introduction to the Problems
 •   The resolution must be a web application.
 •   There must be a way to supply the application with the input data via text file that will be uploaded
