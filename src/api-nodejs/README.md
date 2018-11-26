@@ -6,6 +6,8 @@ A sua criação fornece mais frexibilidade no todo do projeto
 
 - node 
 - npm 
+- docker
+- insommia
 
 ## Passos
 
