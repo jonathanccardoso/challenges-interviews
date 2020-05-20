@@ -13,20 +13,27 @@
       integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
       crossorigin="anonymous"
     />
-    <title>IBGE</title>
+    <title>Dados do IBGE</title>
   </head>
   <body>
-    <h1 class="text-center">IBGE data</h1>
+    <h1 class="text-center mt-4">Dados do IBGE</h1>
     <div class="container">
       <div class="row">
-        <div class="col-md-12 mt-4">
+        <div class="col-md-6 mt-4">
           {% for city in data %}
             {% for label, value in city %}
-              <p> - {{ label }}: {{ value }} </p>
+              <p>- {{ label }}: {{ value }}</p>
             {% endfor %}
             <hr>
           {% endfor %}
-          <br>
+        </div>
+        <div class="col-md-6 mt-4">
+          <h5>Soma das populações</h5>
+          <p>{{ sumPopulations }}</p>
+          <hr>
+          <h5>Média dos IDHM</h5>
+          <p>{{ averageIDHM }}</p>
+          <hr>
         </div>
       </div>
     </div>
